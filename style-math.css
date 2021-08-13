@@ -1,0 +1,19 @@
+*{
+    color: white;
+}
+span {
+    color: yellow;
+    font-weight: 700;
+}
+p {
+border: 5px solid red;  
+}
+.text-tittle {
+background-color: mediumblue;
+}
+.text {
+background-color: deepskyblue;
+}
+.letter-light {
+    color: lightcyan;
+}
